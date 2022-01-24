@@ -1,4 +1,8 @@
-In the project directory, you can run:
+Installation:
+
+yarn install
+
+Running the app:
 
 yarn start 
 
